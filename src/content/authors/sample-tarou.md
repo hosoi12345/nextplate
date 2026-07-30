@@ -1,12 +1,12 @@
 ---
 title: sample tarou
-email: ""
+email: "aaaaaafdafdadfasfasfdadvzvca@example.com"
 image: ""
 description: ""
 social:
   - name: ""
     icon: ""
     link: ""
-draft: false
+draft: true
 ---
-
+​
