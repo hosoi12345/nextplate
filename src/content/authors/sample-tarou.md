@@ -7,6 +7,6 @@ social:
   - name: ""
     icon: ""
     link: ""
-draft: true
+draft: false
 ---
 ​
